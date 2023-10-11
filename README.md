@@ -1,2 +1,1 @@
-# SDE_Interview_GammaTask
- 
+![Table2](Screenshot_Gamma.png)
